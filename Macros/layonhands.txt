@@ -1,0 +1,2 @@
+&{template:default} {{name=Lay on Hands}} {{A palma da mão de ***NOME DO SEU PERSONAGEM*** emite uma luz radiante e... ***@{target|token_name}*** passa de [[@{target|hp}]] para [[@{target|hp}+?{Pontos de vida|0}]] pontos de vida!}}
+/fx glow-holy @{target|token_id}
